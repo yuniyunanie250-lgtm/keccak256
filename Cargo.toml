@@ -1,0 +1,11 @@
+[package]
+name = "keccak256"
+version = "0.1.0"
+edition = "2021"
+description = "Keccak-256 and EIP-55 address checksums, no dependencies"
+license = "MIT"
+repository = "https://github.com/yuniyunanie250-lgtm/keccak256"
+keywords = ["ethereum", "evm", "keccak"]
+categories = ["cryptography::cryptocurrencies"]
+
+[dependencies]
